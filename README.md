@@ -1,6 +1,6 @@
 # Claire Rong
 
-![meow](images/profile pic.PNG)
+![meow](images/profile_pic.PNG)
 
 I am a Ph.D. student in Cognitive Science at the École Normale Supérieure in Paris, specializing in linguistics under the supervision of Benjamin Spector. My work focuses on semantics, experimental pragmatics, and cross-linguistic studies of plurality and typicality. My background is in linguistics, mathematics, and Chinese studies. I am funded by the Jean-Pierre Aguilar Fellowship awarded by the Fondation CFM pour la Recherche.
 
