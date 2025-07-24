@@ -1,6 +1,8 @@
 # Claire Rong
 
-I'm a Ph.D. student in Cognitive Science at the École Normale Supérieure in Paris, specializing in Linguistics under the supervision of Benjamin Spector. My work focuses on semantics, experimental pragmatics, and cross-linguistic studies of plurality and typicality. I'm funded by the Jean-Pierre Aguilar Fellowship, and my background spans linguistics, mathematics, and Chinese studies.
+<img src="images/profile_pic.PNG" alt="Claire Rong" width="180" align="right" style="border-radius: 8px; margin-left: 20px; margin-bottom: 10px;">
+
+I am a Ph.D. student in Cognitive Science at the École Normale Supérieure in Paris, specializing in linguistics under the supervision of Benjamin Spector. My work focuses on semantics, experimental pragmatics, and cross-linguistic studies of plurality and typicality. My background is in linguistics, mathematics, and Chinese studies. I am funded by the Jean-Pierre Aguilar Fellowship awarded by the Fondation CFM pour la Recherche.
 
 ## Conference Presentations
 
@@ -13,13 +15,13 @@ I'm a Ph.D. student in Cognitive Science at the École Normale Supérieure in Pa
 - **Sep. 2025 (upcoming)** – *Plurality in Mandarin Chinese and typicality effects* [Talk]  
   **Rong, C.**  
   32nd Conference of the European Society for Philosophy and Psychology (ESPP), Institute of Philosophy and Sociology, Polish Academy of Sciences, Warsaw.
+  
+- **Aug. 2025 (upcoming)** – *Less is more: a non-verbal approach to anti-exhaustivity* [Talk]  
+  **Rong, C.** and Shiyun Dong (joint work with Benjamin Spector)  
+  Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
 - **Aug. 2025 (upcoming)** – *Plurality and typicality effects: a comparison of English and Mandarin* [Poster]  
   **Rong, C.**  
-  Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
-
-- **Aug. 2025 (upcoming)** – *Less is more: a non-verbal approach to anti-exhaustivity* [Talk]  
-  **Rong, C.** and Shiyun Dong (joint work with Benjamin Spector)  
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
 - **June 2025** – *Plurality in Cantonese and typicality effects* [Talk]  
