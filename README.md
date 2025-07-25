@@ -8,7 +8,7 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_June_2025.pdf"
 
 #### 2025
 
-- <a href="https://rong-claire.github.io/pdfs/Plurals_under_quantification_compressed.pdf">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at the École Normale Supérieure de Paris.
+- <a href="https://rong-claire.github.io/pdfs/Plurals_under_quantification_compressed.pdf">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at the École Normale Supérieure de Paris. <br>
   Supervised by Benjamin Spector.
 - <a href="https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=2&st=07ncuoyv&dl=0">*Less is more: a non-verbal approach to anti-exhaustivity*</a> (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
   
@@ -47,10 +47,10 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_June_2025.pdf"
 
 #### 2024
 
-- December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk]
+- December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk] <br>
   9th Asian Junior Linguists Conference, International Christian University, Tokyo (hybrid format).
 
 ### Other presentations
 
-- May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French]
+- May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French] <br>
   Cross-disciplinary seminar *Visages de la Chine*, École Normale Supérieure, Paris.
