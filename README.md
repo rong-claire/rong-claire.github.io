@@ -6,7 +6,7 @@ You can find my full CV here.
 
 ## Manuscripts
 
-- <a href="pdfs/M2_thesis.pdf">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my master's degree (formerly Cogmaster) in Cognitive Science at the École Normale Supérieure de Paris.
+- <a href="rong-claire.github.io/pdfs/M2_thesis.pdf" target="_blank">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my master's degree (formerly Cogmaster) in Cognitive Science at the École Normale Supérieure de Paris.
 - *Less is more: a non-verbal approach to anti-exhaustivity* (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
   
 #### 2024
@@ -22,23 +22,19 @@ You can find my full CV here.
 #### 2025
 
 - **September 2025 (upcoming)** – *Typicality effects and pragmatic competition: the case of bare plurals* [Poster]  
-  **Rong, C.**  
   11th Experimental Pragmatics Conference (XPrag), University of Cambridge, UK.
 
 - **September 2025 (upcoming)** – *Plurality in Mandarin Chinese and typicality effects* [Talk]  
-  **Rong, C.**  
   32nd Conference of the European Society for Philosophy and Psychology (ESPP), Institute of Philosophy and Sociology, Polish Academy of Sciences, Warsaw.
   
 - **August 2025 (upcoming)** – *Less is more: a non-verbal approach to anti-exhaustivity* [Talk]  
-  **Rong, C.** and Shiyun Dong (joint work with Benjamin Spector)  
+  With Shiyun Dong (joint work with Benjamin Spector).  
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
-- **August 2025 (upcoming)** – *Plurality and typicality effects: a comparison of English and Mandarin* [Poster]  
-  **Rong, C.**  
+- **August 2025 (upcoming)** – *Plurality and typicality effects: a comparison of English and Mandarin* [Poster]    
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
-- **June 2025** – *Plurality in Cantonese and typicality effects* [Talk]  
-  **Rong, C.**  
+- **June 2025** – *Plurality in Cantonese and typicality effects* [Talk]    
   8th Forum on Cantonese Linguistics (FoCaL), University of Hong Kong (hybrid format).
 
 - **January 2025** – *Number marking in Mandarin Chinese and typicality effects* [Poster] 
