@@ -13,11 +13,11 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_June_2025.pdf"
 - <a href="https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=2&st=07ncuoyv&dl=0">*Less is more: a non-verbal approach to anti-exhaustivity*</a> (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
   
 #### 2024
-- <a href="https://rong-claire.github.io/pdfs/Plurality_in_Mandarin.pdf">*Plurality in Mandarin Chinese*</a>: thesis for my first year of master's studies in Chinese, at the École Normale Supérieure de Lyon. ..
+- <a href="https://rong-claire.github.io/pdfs/Plurality_in_Mandarin.pdf">*Plurality in Mandarin Chinese*</a>: thesis for my first year of master's studies in Chinese, at the École Normale Supérieure de Lyon. <br>
   Supervised by Benjamin Spector and Chang Liu.
 
 #### 2023
-- <a href="https://rong-claire.github.io/pdfs/Optimal_lexicalization.pdf">*Optimal lexicalization*</a>: final thesis for my bachelor's degree in mathematics, at the École Normale Supérieure de Lyon. 1\
+- <a href="https://rong-claire.github.io/pdfs/Optimal_lexicalization.pdf">*Optimal lexicalization*</a>: final thesis for my bachelor's degree in mathematics, at the École Normale Supérieure de Lyon. <br>
   Supervised by Benjamin Spector and [Emmanuel Chemla](https://www.emmanuel.chemla.free.fr/). 
 
 ## Talks
