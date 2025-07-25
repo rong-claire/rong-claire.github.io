@@ -6,7 +6,7 @@ You can find my full CV here.
 
 ## Manuscripts
 
-- <a href="rong-claire.github.io/pdfs/M2_thesis.pdf" target="_blank">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my master's degree (formerly Cogmaster) in Cognitive Science at the École Normale Supérieure de Paris.
+- <a href="https://rong-claire.github.io/pdfs/M2_thesis.pdf" target="_blank">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my master's degree (formerly Cogmaster) in Cognitive Science at the École Normale Supérieure de Paris.
 - *Less is more: a non-verbal approach to anti-exhaustivity* (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
   
 #### 2024
