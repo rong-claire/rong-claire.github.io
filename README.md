@@ -8,8 +8,8 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_June_2025.pdf"
 
 #### 2025
 
-- <a href="https://rong-claire.github.io/pdfs/M2_thesis_RONG_Plurals.pdf" target="_blank">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at the École Normale Supérieure de Paris. Supervised by Benjamin Spector.
-- <a href="[https://rong-claire.github.io/pdfs/M2_thesis_RONG_Plurals.pdf](https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=1&st=07ncuoyv&dl=0)">*Less is more: a non-verbal approach to anti-exhaustivity*</a> (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
+- <a href="https://rong-claire.github.io/pdfs/M2_thesis_RONG_Plurals.pdf">*Plurals under quantification: new experimental perspectives*</a>: final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at the École Normale Supérieure de Paris. Supervised by Benjamin Spector.
+- <a href="https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=2&st=07ncuoyv&dl=0">*Less is more: a non-verbal approach to anti-exhaustivity*</a> (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
   
 #### 2024
 *Plurality in Mandarin Chinese*: thesis for my first year of master's studies in Chinese, at the École Normale Supérieure de Lyon. Supervised by Benjamin Spector and Chang Liu.
@@ -44,10 +44,10 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_June_2025.pdf"
 
 #### 2024
 
-- December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk]   
-  9th Asian Junior Linguists Conference, International Christian University, Tokyo (hybrid format).
+December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk]   
+9th Asian Junior Linguists Conference, International Christian University, Tokyo (hybrid format).
 
 ### Other presentations
 
-- May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French]  
-  Cross-disciplinary seminar *Visages de la Chine*, École Normale Supérieure, Paris.
+May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French]  
+Cross-disciplinary seminar *Visages de la Chine*, École Normale Supérieure, Paris.
