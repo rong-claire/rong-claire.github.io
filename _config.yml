@@ -1,3 +1,4 @@
 title: "Claire Rong"
 markdown: kramdown
 theme: minima
+includes_dir: _includes
