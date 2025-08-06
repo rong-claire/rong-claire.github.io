@@ -51,7 +51,7 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_July_2025.pdf"
   With Shiyun Dong (joint work with Benjamin Spector).  <br>
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
-- August 2025 (upcoming) – **Plurals under quantification: new experimental perspectives** [Poster] <br> Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
+- August 2025 – **Plurals under quantification: a comparison of English and Mandarin** [<a href="https://rong-claire.github.io/pdfs/Poster_ESSLLI_Rong.pdf">Poster</a>] <br> Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
 - June 2025 – **Plurals under quantification: new experimental perspectives** [Talk]  <br>
   8th Forum on Cantonese Linguistics (FoCaL), University of Hong Kong (hybrid format).
