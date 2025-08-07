@@ -47,11 +47,11 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_July_2025.pdf"
 - September 2025 (upcoming) – **Plurality in Mandarin Chinese and typicality effects** [Talk] <br> 
   32nd Conference of the European Society for Philosophy and Psychology (ESPP), Institute of Philosophy and Sociology, Polish Academy of Sciences, Warsaw.
   
-- August 2025 (upcoming) – **Less is more: a non-verbal approach to anti-exhaustivity** [Talk]  <br>
+- August 2025 – **Less is more: a non-verbal approach to anti-exhaustivity** [Talk][<a href="https://rong-claire.github.io/pdfs/ESSLLI_anti_exh_slides.pdf">LINK to slides</a>]  <br>
   With Shiyun Dong (joint work with Benjamin Spector).  <br>
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
-- August 2025 – **Plurals under quantification: a comparison of English and Mandarin** [<a href="https://rong-claire.github.io/pdfs/Poster_ESSLLI_Rong.pdf">Poster</a>] <br> Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
+- August 2025 – **Plurals under quantification: a comparison of English and Mandarin** [Poster][<a href="https://rong-claire.github.io/pdfs/Poster_ESSLLI_Rong.pdf">LINK to PDF</a>] <br> Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
 
 - June 2025 – **Plurals under quantification: new experimental perspectives** [Talk]  <br>
   8th Forum on Cantonese Linguistics (FoCaL), University of Hong Kong (hybrid format).
