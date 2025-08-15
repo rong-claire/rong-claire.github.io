@@ -16,16 +16,17 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_Aug_2025.pdf">
 
 #### 2025
 
-- **Plurals under quantification: new experimental perspectives** [[lingbuzz]](https://lingbuzz.net/lingbuzz/009235): final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at École Normale Supérieure de Paris. <br>
+- **Plurals under quantification: new experimental perspectives** [[link]](https://rong-claire.github.io/pdfs/Plurals_under_quantification_compressed.pdf) [[lingbuzz]](https://lingbuzz.net/lingbuzz/009235) <br>
+Final thesis for my [master's degree in Cognitive Science](https://master-cognitive-science.ens.psl.eu/en) (formerly Cogmaster) at École Normale Supérieure de Paris. <br>
   Supervised by Benjamin Spector.
-- **Less is more: a non-verbal approach to anti-exhaustivity** [[link]](https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=2&st=07ncuoyv&dl=0) (joint work with Shiyun Dong and Benjamin Spector): pre-proceedings paper for ESSLLI 2025.
+- **Less is more: a non-verbal approach to anti-exhaustivity** [[link]](https://rong-claire.github.io/pdfs/ESSLLI_anti-exh.pdf) <br> Joint work with Shiyun Dong and Benjamin Spector. <br> Pre-proceedings paper for ESSLLI 2025.
   
 #### 2024
-- **Plurality in Mandarin Chinese** [[link]](https://rong-claire.github.io/pdfs/Plurality_in_Mandarin.pdf): thesis for my first year of master's studies in Chinese, at École Normale Supérieure de Lyon. <br>
+- **Plurality in Mandarin Chinese** [[link]](https://rong-claire.github.io/pdfs/Plurality_in_Mandarin.pdf) <br> Thesis for my first year of master's studies in Chinese, at École Normale Supérieure de Lyon. <br>
   Supervised by Benjamin Spector and Chang Liu.
 
 #### 2023
-- **Optimal lexicalization** [[link]](https://rong-claire.github.io/pdfs/Optimal_lexicalization.pdf): final thesis for my bachelor's degree in mathematics, at École Normale Supérieure de Lyon. <br>
+- **Optimal lexicalization** [[link]](https://rong-claire.github.io/pdfs/Optimal_lexicalization.pdf) <br> Final thesis for my bachelor's degree in mathematics, at École Normale Supérieure de Lyon. <br>
   Supervised by Benjamin Spector and [Emmanuel Chemla](https://www.emmanuel.chemla.free.fr/). 
 
 ## Talks
@@ -40,7 +41,7 @@ You can find my CV <a href="https://rong-claire.github.io/pdfs/CV_Aug_2025.pdf">
 - September 2025 (upcoming) – **Plurality in Mandarin Chinese and typicality effects** [Talk] <br> 
   32nd Conference of the European Society for Philosophy and Psychology (ESPP), Institute of Philosophy and Sociology, Polish Academy of Sciences, Warsaw. -->
   
-- August 2025 – **Less is more: a non-verbal approach to anti-exhaustivity** [Talk] [[slides]](https://rong-claire.github.io/pdfs/ESSLLI_anti_exh_slides.pdf) [[pre-proceedings paper]](https://www.dropbox.com/scl/fi/bi7xc18smuxfrhvx6vx3t/Less-is-more-a-non-verbal-approach-to-anti-exhaustivity.pdf?rlkey=kbsvqcbtvxwoawod3magp5b9u&e=2&st=07ncuoyv&dl=0) <br>
+- August 2025 – **Less is more: a non-verbal approach to anti-exhaustivity** [Talk] [[slides]](https://rong-claire.github.io/pdfs/ESSLLI_anti_exh_slides.pdf) [[pre-proceedings paper]](https://rong-claire.github.io/pdfs/ESSLLI_anti-exh.pdf) <br>
   Honourable mention for Best Talk award. <br>
   With Shiyun Dong (joint work with Benjamin Spector).  <br>
   Student Session, 36th European Summer School in Logic, Language and Information (ESSLLI), Ruhr Universität Bochum, Germany.
