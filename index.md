@@ -36,7 +36,7 @@ Final thesis for my [master's degree in Cognitive Science](https://master-cognit
 
 #### 2025
 
-- September 2025 (upcoming) – **Plurals under quantification: a comparison of English and Mandarin** [Poster]  <br>
+- September 2025 – **Plurals under quantification: a comparison of English and Mandarin** [Poster]  <br>
   11th Experimental Pragmatics Conference (XPrag), University of Cambridge, UK. <br>
   [[<u>link</u>]](https://rong-claire.github.io/pdfs/Poster_ESSLLI_Rong.pdf) 
 
