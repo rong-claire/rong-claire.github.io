@@ -37,7 +37,7 @@ author_profile: true
 - December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk] <br>
   9th Asian Junior Linguists Conference, International Christian University, Tokyo (hybrid format).
 
-# Other talks
+# Other presentations
 
 - May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French] <br>
   Cross-disciplinary seminar *Visages de la Chine*, École Normale Supérieure, Paris.
