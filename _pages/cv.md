@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://rong-claire.github.io/files/CV_Sep_2025.pdf" width="100%" height="1000" type="application/pdf"> 
+<embed src="https://rong-claire.github.io/files/CV_Sep_2025.pdf" width="100%" height="400" type="application/pdf"> 
