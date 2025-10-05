@@ -11,7 +11,7 @@ main:
   - title: "Home"
     url: /about/
     
-  - title: "Manuscripts"
+  - title: "Papers"
     url: /publications/
 
   - title: "Talks"
