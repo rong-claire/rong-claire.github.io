@@ -37,7 +37,16 @@ author_profile: true
 - December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk] <br>
   9th Asian Junior Linguists Conference, International Christian University, Tokyo (hybrid format).
 
-# Other presentations
+# Seminar talks
+
+## 2026
+
+- January 2026 - **Plurals under quantification: new experimental perspectives** <br>
+  - NihiL seminar, Institute for Logic, Language and Computation, University of Amsterdam. <br>
+  [[slides]](https://rong-claire.github.io/files/NihiL_slides_final.pdf)
+  - LINGUAE seminar, Institut Jean Nicod, École Normale Supérieure, Paris.
+
+## 2024
 
 - May 2024 – **Sémantique du pluriel en chinois mandarin** [Talk, in French] <br>
   Cross-disciplinary seminar *Visages de la Chine*, École Normale Supérieure, Paris.
