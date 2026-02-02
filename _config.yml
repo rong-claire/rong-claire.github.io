@@ -23,7 +23,7 @@ repository               : "rong-claire/rong-claire.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "violin_pp.jpg"
+  avatar           : "violin_pp_bg.png"
   name             : "Claire RONG"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Cognitive Science"
