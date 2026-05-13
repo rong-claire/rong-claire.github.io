@@ -16,9 +16,10 @@ author_profile: true
 # Refereed conference presentations
 
 ## 2026 
-- May 2026 (upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic
+(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic
 quantification** [Talk] <br>
-5th International Conference on Pragmatics and Philosophy (**Pragmasophia**), University of Messina, hybrid format.
+- 5th International Conference on Pragmatics and Philosophy (**Pragmasophia**), University of Messina, hybrid format.
+- 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University.
 
 ## 2025
 
