@@ -13,6 +13,12 @@ author_profile: true
 
 # Manuscripts
 
+## 2026
+
+**Plurals under quantification: disentangling readings and gradient effects** <br>
+Claire Rong, Benjamin Spector. <br>
+[submitted]
+
 ## 2025
 
 **Plurals under quantification: new experimental perspectives** <br>
