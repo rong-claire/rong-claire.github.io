@@ -16,10 +16,15 @@ author_profile: true
 # Refereed conference presentations
 
 ## 2026 
-(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic
-quantification** [Talk] <br>
-- 5th International Conference on Pragmatics and Philosophy (**Pragmasophia**), University of Messina, hybrid format.
-- 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University.
+(upcoming) - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk] <br>
+26th Workshop on Cantonese (**WOC**), City University of Hong Kong (hybrid format). <br>
+
+(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** [Talk] <br>
+- 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University. <br>
+- Student Session, 37th European Summer School in Logic, Language and Information (**ESSLLI**), Charles University, Prague. <br>
+
+(upcoming) - **Plurals under universal quantification: disentangling readings from gradient effects** [Poster] <br>
+31st Sinn und Bedeutung (**SuB**), Nantes Université.
 
 ## 2025
 
