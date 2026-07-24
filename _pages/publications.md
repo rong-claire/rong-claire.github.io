@@ -15,9 +15,12 @@ author_profile: true
 
 ## 2026
 
-**Plurals under quantification: disentangling readings and gradient effects** <br>
+- **Plurals under quantification: disentangling readings and gradient effects** <br>
 Claire Rong, Benjamin Spector. <br>
-[submitted]
+[under review]
+- **Less is more: a non-verbal approach to anti-exhaustivity** <br>
+Claire Rong, Shiyun Dong. <br>
+[under review]
 
 ## 2025
 
