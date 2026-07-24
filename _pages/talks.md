@@ -17,19 +17,20 @@ author_profile: true
 
 ## 2026 
 
-- May 2026 - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk] <br>
-  26th Workshop on Cantonese (**WOC**), City University of Hong Kong (hybrid format).
-
-(upcoming) - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk] <br>
-9th Forum on Cantonese Linguistics (**FoCaL**), Hong Kong Polytechnic University (hybrid format). 
-
-(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** [Talk] <br>
-- 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University. <br>
-- Student Session, 37th European Summer School in Logic, Language and Information (**ESSLLI**), Charles University, Prague. <br>
-
 (upcoming) - **Plurals under universal quantification: disentangling readings from gradient effects** [Poster] <br>
   With Benjamin Spector. <br>
   31st Sinn und Bedeutung (**SuB**), Nantes Université.
+
+(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** [Talk] <br>
+    - 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University. <br>
+    - Student Session, 37th European Summer School in Logic, Language and Information (**ESSLLI**), Charles University, Prague. 
+
+- July 2026 - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk, online] <br>
+9th Forum on Cantonese Linguistics (**FoCaL**), Hong Kong Polytechnic University. 
+
+- May 2026 - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk, online] <br>
+  26th Workshop on Cantonese (**WOC**), City University of Hong Kong.
+
 
 ## 2025
 
@@ -50,16 +51,16 @@ author_profile: true
 - August 2025 – **Plurals under quantification: a comparison of English and Mandarin** [Poster] <br> Student Session, 36th European Summer School in Logic, Language and Information (**ESSLLI**), Ruhr Universität Bochum, Germany. <br>
   [[link]](https://rong-claire.github.io/files/Poster_ESSLLI_Rong.pdf) 
 
-- June 2025 – **Plurals under quantification: new experimental perspectives** [Talk]  <br>
-  8th Forum on Cantonese Linguistics (**FoCaL**), University of Hong Kong (hybrid format).
+- June 2025 – **Plurals under quantification: new experimental perspectives** [Talk, online]  <br>
+  8th Forum on Cantonese Linguistics (**FoCaL**), University of Hong Kong.
 
 - January 2025 – **Strong and weak plurality in Mandarin Chinese and typicality effects** [Poster] <br>
   33rd Conference of the Student Organization of Linguistics in Europe (**ConSOLE**), University of Göttingen, Germany.
 
 ## 2024
 
-- December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk] <br>
-  9th Asian Junior Linguists Conference (**AJL**), International Christian University, Tokyo (hybrid format).
+- December 2024 – **Number marking in Mandarin Chinese and typicality effects** [Talk, online] <br>
+  9th Asian Junior Linguists Conference (**AJL**), International Christian University, Tokyo.
 
 # Other talks
 
