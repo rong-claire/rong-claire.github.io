@@ -4,23 +4,27 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# Published in proceedings
 
-## 2025
-
-- **Less is more: a non-verbal approach to anti-exhaustivity** <br> Joint work with Shiyun Dong and Benjamin Spector. <br> Proceedings of the ESSLLI 2025 Student Session. <br> [[link]](https://philpapers.org/archive/GRAPOT-20.pdf#page=140)
-- **Plurals under quantification: a comparison of English and Mandarin** <br> Proceedings of the ESSLLI 2025 Student Session. <br> [[link]](https://philpapers.org/archive/GRAPOT-20.pdf#page=133)
-
-# Manuscripts
+# Journal publications
 
 ## 2026
 
 - **Plurals under quantification: disentangling readings and gradient effects** <br>
 Claire Rong, Benjamin Spector. <br>
-[under review]
+[Accepted pending revisions at _Semantics & Pragmatics_.] <br>
+[[lingbuzz]](https://lingbuzz.net/lingbuzz/010102)
 - **Less is more: a non-verbal approach to anti-exhaustivity** <br>
 Claire Rong, Shiyun Dong. <br>
-[under review]
+[Accepted pending revisions at _Journal of Logic, Language and Information_.]
+
+# Conference proceedings
+
+## 2025
+
+- **Less is more: a non-verbal approach to anti-exhaustivity** <br> With Shiyun Dong, based on joint work with Benjamin Spector. <br> Proceedings of the ESSLLI 2025 Student Session. <br> [[link]](https://philpapers.org/archive/GRAPOT-20.pdf#page=140)
+- **Plurals under quantification: a comparison of English and Mandarin** <br> Proceedings of the ESSLLI 2025 Student Session. <br> [[link]](https://philpapers.org/archive/GRAPOT-20.pdf#page=133)
+
+# Manuscripts
 
 ## 2025
 
