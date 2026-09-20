@@ -17,13 +17,16 @@ author_profile: true
 
 ## 2026 
 
-(upcoming) - **Plurals under universal quantification: disentangling readings from gradient effects** [Poster] <br>
+- September 2026 - **Plurals under universal quantification: disentangling readings from gradient effects** [Poster] <br>
   With Benjamin Spector. <br>
-  31st Sinn und Bedeutung (**SuB**), Nantes Université.
+  31st Sinn und Bedeutung (**SuB**), Nantes Université. <br>
+  [[link]](https://rong-claire.github.io/files/Rong-Spector-poster.pdf)
 
-(upcoming) - **An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** [Talk] <br>
+- July/August 2026 - **An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** [Talk] <br>
+    - Student Session, 37th European Summer School in Logic, Language and Information (**ESSLLI**), Charles University, Prague. <br>
+     [[slides]](https://rong-claire.github.io/files/ESSLLI_impossibility_theorem_slides.pdf)  [[pre-proceedings paper]](https://drive.google.com/file/d/1imE2hAubQYmfDDgMbXMX5SIrN7V67ZxC/view) <br>
     - 33rd Conference of the European Society for Philosophy and Psychology (**ESPP**), Utrecht University. <br>
-    - Student Session, 37th European Summer School in Logic, Language and Information (**ESSLLI**), Charles University, Prague. 
+
 
 - July 2026 - **Definiteness in Cantonese vs Mandarin: bare nouns, classifiers, and demonstratives** [Talk, online] <br>
 9th Forum on Cantonese Linguistics (**FoCaL**), Hong Kong Polytechnic University. 
