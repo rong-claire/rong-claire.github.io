@@ -19,6 +19,10 @@ Claire Rong, Shiyun Dong. <br>
 
 # Conference proceedings
 
+## 2026
+
+**An impossibility theorem of aggregating semantic rankings under non-monotonic quantification** <br> Proceedings of the ESSLLI 2026 Student Session. <br> [[link]](https://philpapers.org/archive/JOSPOT-2.pdf#page=58)
+
 ## 2025
 
 - **Less is more: a non-verbal approach to anti-exhaustivity** <br> With Shiyun Dong, based on joint work with Benjamin Spector. <br> Proceedings of the ESSLLI 2025 Student Session. <br> [[link]](https://philpapers.org/archive/GRAPOT-20.pdf#page=140)
